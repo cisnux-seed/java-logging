@@ -1,0 +1,245 @@
+2024-03-09 13:24:41.223 [main] TRACE dev.cisnux.logging.LevelTest - Trace
+2024-03-09 13:24:41.224 [main] DEBUG dev.cisnux.logging.LevelTest - Debug
+2024-03-09 13:24:41.224 [main] INFO  dev.cisnux.logging.LevelTest - Info
+2024-03-09 13:24:41.224 [main] WARN  dev.cisnux.logging.LevelTest - Warning
+2024-03-09 13:24:41.224 [main] ERROR dev.cisnux.logging.LevelTest - Error
+2024-03-09 13:33:56.049 [Thread-3] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-5] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-4] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-7] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-8] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.050 [Thread-3] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.050 [Thread-8] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.050 [Thread-3] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.049 [Thread-6] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-9] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.049 [Thread-2] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.048 [Thread-0] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.051 [Thread-6] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.051 [Thread-0] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.048 [Thread-1] INFO  dev.cisnux.logging.MyController - Controller Save
+2024-03-09 13:33:56.050 [Thread-5] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.050 [Thread-4] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.050 [Thread-7] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.050 [Thread-8] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-9] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.051 [Thread-7] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-2] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.051 [Thread-9] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-6] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-1] INFO  dev.cisnux.logging.MyService - Service Save
+2024-03-09 13:33:56.051 [Thread-2] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-0] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-1] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-5] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:33:56.051 [Thread-4] INFO  dev.cisnux.logging.MyRepository - Repository Save
+2024-03-09 13:36:28.412 [Thread-0] INFO  dev.cisnux.logging.MyController - [7d1295c9-fc61-418f-b105-ecd3a88a4f81] - Controller Save
+2024-03-09 13:36:28.412 [Thread-6] INFO  dev.cisnux.logging.MyController - [d793879b-94e7-4542-afaa-dc35b142e1b8] - Controller Save
+2024-03-09 13:36:28.414 [Thread-0] INFO  dev.cisnux.logging.MyService - [7d1295c9-fc61-418f-b105-ecd3a88a4f81] - Service Save
+2024-03-09 13:36:28.412 [Thread-1] INFO  dev.cisnux.logging.MyController - [076abc91-e79b-4601-94ef-80b1782095a4] - Controller Save
+2024-03-09 13:36:28.412 [Thread-9] INFO  dev.cisnux.logging.MyController - [2cf628b0-efcf-4ac2-9e0f-019da8df07af] - Controller Save
+2024-03-09 13:36:28.412 [Thread-7] INFO  dev.cisnux.logging.MyController - [ce373293-b3e3-41fc-af13-2f3c7dad5eda] - Controller Save
+2024-03-09 13:36:28.414 [Thread-1] INFO  dev.cisnux.logging.MyService - [076abc91-e79b-4601-94ef-80b1782095a4] - Service Save
+2024-03-09 13:36:28.414 [Thread-7] INFO  dev.cisnux.logging.MyService - [ce373293-b3e3-41fc-af13-2f3c7dad5eda] - Service Save
+2024-03-09 13:36:28.412 [Thread-2] INFO  dev.cisnux.logging.MyController - [3ecb860c-3dd5-4bd2-8ce8-40045d50a23f] - Controller Save
+2024-03-09 13:36:28.414 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [076abc91-e79b-4601-94ef-80b1782095a4] - Repository Save
+2024-03-09 13:36:28.412 [Thread-5] INFO  dev.cisnux.logging.MyController - [7cadd508-60e2-43dd-8397-87d6cfe54d43] - Controller Save
+2024-03-09 13:36:28.414 [Thread-5] INFO  dev.cisnux.logging.MyService - [7cadd508-60e2-43dd-8397-87d6cfe54d43] - Service Save
+2024-03-09 13:36:28.414 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [7cadd508-60e2-43dd-8397-87d6cfe54d43] - Repository Save
+2024-03-09 13:36:28.412 [Thread-8] INFO  dev.cisnux.logging.MyController - [231bc5a3-707d-42c8-84e1-3d6593fedbdf] - Controller Save
+2024-03-09 13:36:28.412 [Thread-3] INFO  dev.cisnux.logging.MyController - [ce067fcc-9f36-4b21-89ee-9a87d5067311] - Controller Save
+2024-03-09 13:36:28.415 [Thread-8] INFO  dev.cisnux.logging.MyService - [231bc5a3-707d-42c8-84e1-3d6593fedbdf] - Service Save
+2024-03-09 13:36:28.415 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [231bc5a3-707d-42c8-84e1-3d6593fedbdf] - Repository Save
+2024-03-09 13:36:28.414 [Thread-6] INFO  dev.cisnux.logging.MyService - [d793879b-94e7-4542-afaa-dc35b142e1b8] - Service Save
+2024-03-09 13:36:28.415 [Thread-3] INFO  dev.cisnux.logging.MyService - [ce067fcc-9f36-4b21-89ee-9a87d5067311] - Service Save
+2024-03-09 13:36:28.415 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [ce067fcc-9f36-4b21-89ee-9a87d5067311] - Repository Save
+2024-03-09 13:36:28.415 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [d793879b-94e7-4542-afaa-dc35b142e1b8] - Repository Save
+2024-03-09 13:36:28.414 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [7d1295c9-fc61-418f-b105-ecd3a88a4f81] - Repository Save
+2024-03-09 13:36:28.412 [Thread-4] INFO  dev.cisnux.logging.MyController - [cffad7be-a5bf-44ea-a3da-0be8929dbda9] - Controller Save
+2024-03-09 13:36:28.414 [Thread-9] INFO  dev.cisnux.logging.MyService - [2cf628b0-efcf-4ac2-9e0f-019da8df07af] - Service Save
+2024-03-09 13:36:28.414 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [ce373293-b3e3-41fc-af13-2f3c7dad5eda] - Repository Save
+2024-03-09 13:36:28.415 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [2cf628b0-efcf-4ac2-9e0f-019da8df07af] - Repository Save
+2024-03-09 13:36:28.414 [Thread-2] INFO  dev.cisnux.logging.MyService - [3ecb860c-3dd5-4bd2-8ce8-40045d50a23f] - Service Save
+2024-03-09 13:36:28.415 [Thread-4] INFO  dev.cisnux.logging.MyService - [cffad7be-a5bf-44ea-a3da-0be8929dbda9] - Service Save
+2024-03-09 13:36:28.415 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [3ecb860c-3dd5-4bd2-8ce8-40045d50a23f] - Repository Save
+2024-03-09 13:36:28.416 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [cffad7be-a5bf-44ea-a3da-0be8929dbda9] - Repository Save
+2024-03-09 13:38:34.605 [Thread-5] INFO  dev.cisnux.logging.MyController - [13a06dd2-2b71-4df4-b9c4-09c429d86b7a] - Controller Save
+2024-03-09 13:38:34.605 [Thread-1] INFO  dev.cisnux.logging.MyController - [83f146bd-48b1-4a64-b3a4-199b59e8ba33] - Controller Save
+2024-03-09 13:38:34.605 [Thread-2] INFO  dev.cisnux.logging.MyController - [9221f5c8-be1e-409f-bade-258a263790f2] - Controller Save
+2024-03-09 13:38:34.605 [Thread-6] INFO  dev.cisnux.logging.MyController - [7703ab74-696a-4e5b-ab5a-512ec386dfb3] - Controller Save
+2024-03-09 13:38:34.607 [Thread-6] INFO  dev.cisnux.logging.MyService - [7703ab74-696a-4e5b-ab5a-512ec386dfb3] - Service Save
+2024-03-09 13:38:34.607 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [7703ab74-696a-4e5b-ab5a-512ec386dfb3] - Repository Save
+2024-03-09 13:38:34.605 [Thread-7] INFO  dev.cisnux.logging.MyController - [e5229018-8e64-4d52-89fe-a97b302d3b0b] - Controller Save
+2024-03-09 13:38:34.608 [Thread-7] INFO  dev.cisnux.logging.MyService - [e5229018-8e64-4d52-89fe-a97b302d3b0b] - Service Save
+2024-03-09 13:38:34.605 [Thread-0] INFO  dev.cisnux.logging.MyController - [dfa5042b-e713-422e-a04b-db7f82ab14ad] - Controller Save
+2024-03-09 13:38:34.608 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [e5229018-8e64-4d52-89fe-a97b302d3b0b] - Repository Save
+2024-03-09 13:38:34.605 [Thread-3] INFO  dev.cisnux.logging.MyController - [7951bf47-ddfe-4922-8004-e405e027de1e] - Controller Save
+2024-03-09 13:38:34.605 [Thread-9] INFO  dev.cisnux.logging.MyController - [206f908d-fce9-47ed-aed9-7584edcac4df] - Controller Save
+2024-03-09 13:38:34.608 [Thread-9] INFO  dev.cisnux.logging.MyService - [206f908d-fce9-47ed-aed9-7584edcac4df] - Service Save
+2024-03-09 13:38:34.608 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [206f908d-fce9-47ed-aed9-7584edcac4df] - Repository Save
+2024-03-09 13:38:34.605 [Thread-8] INFO  dev.cisnux.logging.MyController - [5b741a2c-0411-458d-81dc-2fc8a2b9d2ec] - Controller Save
+2024-03-09 13:38:34.608 [Thread-8] INFO  dev.cisnux.logging.MyService - [5b741a2c-0411-458d-81dc-2fc8a2b9d2ec] - Service Save
+2024-03-09 13:38:34.605 [Thread-4] INFO  dev.cisnux.logging.MyController - [a05e70b9-ff10-4dfd-9d8b-9fd7f45e4353] - Controller Save
+2024-03-09 13:38:34.607 [Thread-1] INFO  dev.cisnux.logging.MyService - [83f146bd-48b1-4a64-b3a4-199b59e8ba33] - Service Save
+2024-03-09 13:38:34.608 [Thread-4] INFO  dev.cisnux.logging.MyService - [a05e70b9-ff10-4dfd-9d8b-9fd7f45e4353] - Service Save
+2024-03-09 13:38:34.608 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [a05e70b9-ff10-4dfd-9d8b-9fd7f45e4353] - Repository Save
+2024-03-09 13:38:34.607 [Thread-2] INFO  dev.cisnux.logging.MyService - [9221f5c8-be1e-409f-bade-258a263790f2] - Service Save
+2024-03-09 13:38:34.608 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [83f146bd-48b1-4a64-b3a4-199b59e8ba33] - Repository Save
+2024-03-09 13:38:34.607 [Thread-5] INFO  dev.cisnux.logging.MyService - [13a06dd2-2b71-4df4-b9c4-09c429d86b7a] - Service Save
+2024-03-09 13:38:34.608 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [9221f5c8-be1e-409f-bade-258a263790f2] - Repository Save
+2024-03-09 13:38:34.609 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [13a06dd2-2b71-4df4-b9c4-09c429d86b7a] - Repository Save
+2024-03-09 13:38:34.608 [Thread-0] INFO  dev.cisnux.logging.MyService - [dfa5042b-e713-422e-a04b-db7f82ab14ad] - Service Save
+2024-03-09 13:38:34.609 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [dfa5042b-e713-422e-a04b-db7f82ab14ad] - Repository Save
+2024-03-09 13:38:34.608 [Thread-3] INFO  dev.cisnux.logging.MyService - [7951bf47-ddfe-4922-8004-e405e027de1e] - Service Save
+2024-03-09 13:38:34.609 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [7951bf47-ddfe-4922-8004-e405e027de1e] - Repository Save
+2024-03-09 13:38:34.608 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [5b741a2c-0411-458d-81dc-2fc8a2b9d2ec] - Repository Save
+2024-03-09 13:45:23.138 [Thread-0] INFO  dev.cisnux.logging.MyController - [65052895-1a65-4251-ae1c-3b64a5c638e3] - Controller Save
+2024-03-09 13:45:23.140 [Thread-0] INFO  dev.cisnux.logging.MyService - [65052895-1a65-4251-ae1c-3b64a5c638e3] - Service Save
+2024-03-09 13:45:23.140 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [65052895-1a65-4251-ae1c-3b64a5c638e3] - Repository Save
+2024-03-09 13:45:23.141 [Thread-1] INFO  dev.cisnux.logging.MyController - [10479bfe-083a-46b5-9105-cdcb9a614e1a] - Controller Save
+2024-03-09 13:45:23.141 [Thread-1] INFO  dev.cisnux.logging.MyService - [10479bfe-083a-46b5-9105-cdcb9a614e1a] - Service Save
+2024-03-09 13:45:23.141 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [10479bfe-083a-46b5-9105-cdcb9a614e1a] - Repository Save
+2024-03-09 13:45:23.142 [Thread-2] INFO  dev.cisnux.logging.MyController - [c4753f22-706d-4d44-a341-f25aa40f83f6] - Controller Save
+2024-03-09 13:45:23.142 [Thread-2] INFO  dev.cisnux.logging.MyService - [c4753f22-706d-4d44-a341-f25aa40f83f6] - Service Save
+2024-03-09 13:45:23.142 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [c4753f22-706d-4d44-a341-f25aa40f83f6] - Repository Save
+2024-03-09 13:45:23.142 [Thread-3] INFO  dev.cisnux.logging.MyController - [54a75341-a01a-4909-b18a-766b1e093c36] - Controller Save
+2024-03-09 13:45:23.142 [Thread-3] INFO  dev.cisnux.logging.MyService - [54a75341-a01a-4909-b18a-766b1e093c36] - Service Save
+2024-03-09 13:45:23.142 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [54a75341-a01a-4909-b18a-766b1e093c36] - Repository Save
+2024-03-09 13:45:23.142 [Thread-4] INFO  dev.cisnux.logging.MyController - [9671d758-d405-488d-a584-8010451bbff6] - Controller Save
+2024-03-09 13:45:23.143 [Thread-4] INFO  dev.cisnux.logging.MyService - [9671d758-d405-488d-a584-8010451bbff6] - Service Save
+2024-03-09 13:45:23.143 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [9671d758-d405-488d-a584-8010451bbff6] - Repository Save
+2024-03-09 13:45:23.143 [Thread-5] INFO  dev.cisnux.logging.MyController - [ca2bf39e-abb4-4f99-bffe-9fe629c09b71] - Controller Save
+2024-03-09 13:45:23.143 [Thread-5] INFO  dev.cisnux.logging.MyService - [ca2bf39e-abb4-4f99-bffe-9fe629c09b71] - Service Save
+2024-03-09 13:45:23.143 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [ca2bf39e-abb4-4f99-bffe-9fe629c09b71] - Repository Save
+2024-03-09 13:45:23.143 [Thread-6] INFO  dev.cisnux.logging.MyController - [157f634d-ec07-4c10-86e0-6e37e5a5aca4] - Controller Save
+2024-03-09 13:45:23.143 [Thread-6] INFO  dev.cisnux.logging.MyService - [157f634d-ec07-4c10-86e0-6e37e5a5aca4] - Service Save
+2024-03-09 13:45:23.143 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [157f634d-ec07-4c10-86e0-6e37e5a5aca4] - Repository Save
+2024-03-09 13:45:23.144 [Thread-7] INFO  dev.cisnux.logging.MyController - [e9989c42-2427-4918-88c3-c3d0080cc5cf] - Controller Save
+2024-03-09 13:45:23.144 [Thread-7] INFO  dev.cisnux.logging.MyService - [e9989c42-2427-4918-88c3-c3d0080cc5cf] - Service Save
+2024-03-09 13:45:23.144 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [e9989c42-2427-4918-88c3-c3d0080cc5cf] - Repository Save
+2024-03-09 13:45:23.144 [Thread-8] INFO  dev.cisnux.logging.MyController - [d2a81e48-cc56-4605-899a-c74fee0e99dc] - Controller Save
+2024-03-09 13:45:23.144 [Thread-8] INFO  dev.cisnux.logging.MyService - [d2a81e48-cc56-4605-899a-c74fee0e99dc] - Service Save
+2024-03-09 13:45:23.144 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [d2a81e48-cc56-4605-899a-c74fee0e99dc] - Repository Save
+2024-03-09 13:45:23.145 [Thread-9] INFO  dev.cisnux.logging.MyController - [b2cd3371-b1e5-482d-8337-e172ba8b3700] - Controller Save
+2024-03-09 13:45:23.145 [Thread-9] INFO  dev.cisnux.logging.MyService - [b2cd3371-b1e5-482d-8337-e172ba8b3700] - Service Save
+2024-03-09 13:45:23.145 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [b2cd3371-b1e5-482d-8337-e172ba8b3700] - Repository Save
+2024-03-09 13:48:20.311 [Thread-0] INFO  dev.cisnux.logging.MyController - [6769a981-b3a4-4e18-8c95-4dfa69d49f46] - Controller Save
+2024-03-09 13:48:20.312 [Thread-0] INFO  dev.cisnux.logging.MyService - [6769a981-b3a4-4e18-8c95-4dfa69d49f46] - Service Save
+2024-03-09 13:48:20.312 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [6769a981-b3a4-4e18-8c95-4dfa69d49f46] - Repository Save
+2024-03-09 13:48:21.318 [Thread-1] INFO  dev.cisnux.logging.MyController - [6ef82c6e-2afc-463a-9dee-99be28b50164] - Controller Save
+2024-03-09 13:48:21.319 [Thread-1] INFO  dev.cisnux.logging.MyService - [6ef82c6e-2afc-463a-9dee-99be28b50164] - Service Save
+2024-03-09 13:48:21.319 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [6ef82c6e-2afc-463a-9dee-99be28b50164] - Repository Save
+2024-03-09 13:48:22.325 [Thread-2] INFO  dev.cisnux.logging.MyController - [90e9f502-4dc9-424c-a790-f3c5bc5f8dc3] - Controller Save
+2024-03-09 13:48:22.326 [Thread-2] INFO  dev.cisnux.logging.MyService - [90e9f502-4dc9-424c-a790-f3c5bc5f8dc3] - Service Save
+2024-03-09 13:48:22.326 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [90e9f502-4dc9-424c-a790-f3c5bc5f8dc3] - Repository Save
+2024-03-09 13:48:23.332 [Thread-3] INFO  dev.cisnux.logging.MyController - [06606b57-fb3f-482d-83fe-f131de183f30] - Controller Save
+2024-03-09 13:48:23.333 [Thread-3] INFO  dev.cisnux.logging.MyService - [06606b57-fb3f-482d-83fe-f131de183f30] - Service Save
+2024-03-09 13:48:23.333 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [06606b57-fb3f-482d-83fe-f131de183f30] - Repository Save
+2024-03-09 13:48:24.335 [Thread-4] INFO  dev.cisnux.logging.MyController - [c3465ec8-3dec-4aa1-beb5-941884397081] - Controller Save
+2024-03-09 13:48:24.336 [Thread-4] INFO  dev.cisnux.logging.MyService - [c3465ec8-3dec-4aa1-beb5-941884397081] - Service Save
+2024-03-09 13:48:24.336 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [c3465ec8-3dec-4aa1-beb5-941884397081] - Repository Save
+2024-03-09 13:48:25.340 [Thread-5] INFO  dev.cisnux.logging.MyController - [ed56c182-0b3d-44bb-b246-3db726909009] - Controller Save
+2024-03-09 13:48:25.341 [Thread-5] INFO  dev.cisnux.logging.MyService - [ed56c182-0b3d-44bb-b246-3db726909009] - Service Save
+2024-03-09 13:48:25.341 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [ed56c182-0b3d-44bb-b246-3db726909009] - Repository Save
+2024-03-09 13:48:26.347 [Thread-6] INFO  dev.cisnux.logging.MyController - [95d0d8a4-d71c-46f8-9433-a8e03351d726] - Controller Save
+2024-03-09 13:48:26.348 [Thread-6] INFO  dev.cisnux.logging.MyService - [95d0d8a4-d71c-46f8-9433-a8e03351d726] - Service Save
+2024-03-09 13:48:26.348 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [95d0d8a4-d71c-46f8-9433-a8e03351d726] - Repository Save
+2024-03-09 13:48:27.349 [Thread-7] INFO  dev.cisnux.logging.MyController - [75d1254e-2eba-4c3b-a226-8408d03ede04] - Controller Save
+2024-03-09 13:48:27.350 [Thread-7] INFO  dev.cisnux.logging.MyService - [75d1254e-2eba-4c3b-a226-8408d03ede04] - Service Save
+2024-03-09 13:48:27.351 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [75d1254e-2eba-4c3b-a226-8408d03ede04] - Repository Save
+2024-03-09 13:48:28.352 [Thread-8] INFO  dev.cisnux.logging.MyController - [a3e64985-a86b-4369-9851-3bb2620aa14e] - Controller Save
+2024-03-09 13:48:28.353 [Thread-8] INFO  dev.cisnux.logging.MyService - [a3e64985-a86b-4369-9851-3bb2620aa14e] - Service Save
+2024-03-09 13:48:28.353 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [a3e64985-a86b-4369-9851-3bb2620aa14e] - Repository Save
+2024-03-09 13:48:29.358 [Thread-9] INFO  dev.cisnux.logging.MyController - [f75d6ef0-b045-49b0-b60a-45d82c7389f6] - Controller Save
+2024-03-09 13:48:29.359 [Thread-9] INFO  dev.cisnux.logging.MyService - [f75d6ef0-b045-49b0-b60a-45d82c7389f6] - Service Save
+2024-03-09 13:48:29.359 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [f75d6ef0-b045-49b0-b60a-45d82c7389f6] - Repository Save
+2024-03-09 13:49:11.890 [Thread-0] INFO  dev.cisnux.logging.MyController - [138f4ba0-f133-4d37-992f-527a04140083] - Controller Save
+2024-03-09 13:49:11.892 [Thread-0] INFO  dev.cisnux.logging.MyService - [138f4ba0-f133-4d37-992f-527a04140083] - Service Save
+2024-03-09 13:49:11.892 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [138f4ba0-f133-4d37-992f-527a04140083] - Repository Save
+2024-03-09 13:49:12.893 [Thread-1] INFO  dev.cisnux.logging.MyController - [e02f9226-9012-4466-967e-e3cf85ca849f] - Controller Save
+2024-03-09 13:49:12.893 [Thread-1] INFO  dev.cisnux.logging.MyService - [e02f9226-9012-4466-967e-e3cf85ca849f] - Service Save
+2024-03-09 13:49:12.894 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [e02f9226-9012-4466-967e-e3cf85ca849f] - Repository Save
+2024-03-09 13:49:13.899 [Thread-2] INFO  dev.cisnux.logging.MyController - [7bc0ecfb-4646-4c23-8ac1-a1595e91b827] - Controller Save
+2024-03-09 13:49:13.900 [Thread-2] INFO  dev.cisnux.logging.MyService - [7bc0ecfb-4646-4c23-8ac1-a1595e91b827] - Service Save
+2024-03-09 13:49:13.901 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [7bc0ecfb-4646-4c23-8ac1-a1595e91b827] - Repository Save
+2024-03-09 13:49:14.906 [Thread-3] INFO  dev.cisnux.logging.MyController - [804afbce-5157-4504-9067-77ea6a1d69d3] - Controller Save
+2024-03-09 13:49:14.906 [Thread-3] INFO  dev.cisnux.logging.MyService - [804afbce-5157-4504-9067-77ea6a1d69d3] - Service Save
+2024-03-09 13:49:14.906 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [804afbce-5157-4504-9067-77ea6a1d69d3] - Repository Save
+2024-03-09 13:49:15.911 [Thread-4] INFO  dev.cisnux.logging.MyController - [0dca7c37-6355-4802-a07a-ef743f3dcdce] - Controller Save
+2024-03-09 13:49:15.912 [Thread-4] INFO  dev.cisnux.logging.MyService - [0dca7c37-6355-4802-a07a-ef743f3dcdce] - Service Save
+2024-03-09 13:49:15.912 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [0dca7c37-6355-4802-a07a-ef743f3dcdce] - Repository Save
+2024-03-09 13:49:16.916 [Thread-5] INFO  dev.cisnux.logging.MyController - [c788c96f-43ee-4ff9-af21-c3cc03d56cdd] - Controller Save
+2024-03-09 13:49:16.916 [Thread-5] INFO  dev.cisnux.logging.MyService - [c788c96f-43ee-4ff9-af21-c3cc03d56cdd] - Service Save
+2024-03-09 13:49:16.916 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [c788c96f-43ee-4ff9-af21-c3cc03d56cdd] - Repository Save
+2024-03-09 13:49:17.919 [Thread-6] INFO  dev.cisnux.logging.MyController - [2463c448-b261-4cb9-a7ed-4fa828da84cb] - Controller Save
+2024-03-09 13:49:17.920 [Thread-6] INFO  dev.cisnux.logging.MyService - [2463c448-b261-4cb9-a7ed-4fa828da84cb] - Service Save
+2024-03-09 13:49:17.921 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [2463c448-b261-4cb9-a7ed-4fa828da84cb] - Repository Save
+2024-03-09 13:49:18.923 [Thread-7] INFO  dev.cisnux.logging.MyController - [5ea6953a-ba54-4afe-9208-beda83470220] - Controller Save
+2024-03-09 13:49:18.924 [Thread-7] INFO  dev.cisnux.logging.MyService - [5ea6953a-ba54-4afe-9208-beda83470220] - Service Save
+2024-03-09 13:49:18.924 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [5ea6953a-ba54-4afe-9208-beda83470220] - Repository Save
+2024-03-09 13:49:19.929 [Thread-8] INFO  dev.cisnux.logging.MyController - [04f134dc-7d61-4b4b-8399-224a95aff812] - Controller Save
+2024-03-09 13:49:19.931 [Thread-8] INFO  dev.cisnux.logging.MyService - [04f134dc-7d61-4b4b-8399-224a95aff812] - Service Save
+2024-03-09 13:49:19.931 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [04f134dc-7d61-4b4b-8399-224a95aff812] - Repository Save
+2024-03-09 13:49:20.937 [Thread-9] INFO  dev.cisnux.logging.MyController - [4e8b1ca0-256b-46c1-b7ef-ab9912ffb44c] - Controller Save
+2024-03-09 13:49:20.938 [Thread-9] INFO  dev.cisnux.logging.MyService - [4e8b1ca0-256b-46c1-b7ef-ab9912ffb44c] - Service Save
+2024-03-09 13:49:20.939 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [4e8b1ca0-256b-46c1-b7ef-ab9912ffb44c] - Repository Save
+2024-03-09 13:49:26.161 [Thread-0] INFO  dev.cisnux.logging.MyController - [66160670-ab51-4b72-98fd-e137e40e2062] - Controller Save
+2024-03-09 13:49:26.162 [Thread-0] INFO  dev.cisnux.logging.MyService - [66160670-ab51-4b72-98fd-e137e40e2062] - Service Save
+2024-03-09 13:49:26.162 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [66160670-ab51-4b72-98fd-e137e40e2062] - Repository Save
+2024-03-09 13:49:27.167 [Thread-1] INFO  dev.cisnux.logging.MyController - [5624669b-e387-4ef3-9ab3-025796ed36a7] - Controller Save
+2024-03-09 13:49:27.168 [Thread-1] INFO  dev.cisnux.logging.MyService - [5624669b-e387-4ef3-9ab3-025796ed36a7] - Service Save
+2024-03-09 13:49:27.169 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [5624669b-e387-4ef3-9ab3-025796ed36a7] - Repository Save
+2024-03-09 13:49:28.174 [Thread-2] INFO  dev.cisnux.logging.MyController - [5fa95988-8423-42eb-a2b2-1d01f1a38208] - Controller Save
+2024-03-09 13:49:28.175 [Thread-2] INFO  dev.cisnux.logging.MyService - [5fa95988-8423-42eb-a2b2-1d01f1a38208] - Service Save
+2024-03-09 13:49:28.175 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [5fa95988-8423-42eb-a2b2-1d01f1a38208] - Repository Save
+2024-03-09 13:49:29.180 [Thread-3] INFO  dev.cisnux.logging.MyController - [f1428f45-8cb9-4f48-afb0-1889152ba8a1] - Controller Save
+2024-03-09 13:49:29.181 [Thread-3] INFO  dev.cisnux.logging.MyService - [f1428f45-8cb9-4f48-afb0-1889152ba8a1] - Service Save
+2024-03-09 13:49:29.182 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [f1428f45-8cb9-4f48-afb0-1889152ba8a1] - Repository Save
+2024-03-09 13:49:30.183 [Thread-4] INFO  dev.cisnux.logging.MyController - [b669c9fe-9b3a-4d45-a692-07b7bfba09e7] - Controller Save
+2024-03-09 13:49:30.184 [Thread-4] INFO  dev.cisnux.logging.MyService - [b669c9fe-9b3a-4d45-a692-07b7bfba09e7] - Service Save
+2024-03-09 13:49:30.184 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [b669c9fe-9b3a-4d45-a692-07b7bfba09e7] - Repository Save
+2024-03-09 13:49:31.189 [Thread-5] INFO  dev.cisnux.logging.MyController - [c2d30a70-6873-42f9-920a-c5803c44f50f] - Controller Save
+2024-03-09 13:49:31.191 [Thread-5] INFO  dev.cisnux.logging.MyService - [c2d30a70-6873-42f9-920a-c5803c44f50f] - Service Save
+2024-03-09 13:49:31.191 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [c2d30a70-6873-42f9-920a-c5803c44f50f] - Repository Save
+2024-03-09 13:49:32.194 [Thread-6] INFO  dev.cisnux.logging.MyController - [4f9101aa-407f-4b8b-9b04-4800daae8b4c] - Controller Save
+2024-03-09 13:49:32.195 [Thread-6] INFO  dev.cisnux.logging.MyService - [4f9101aa-407f-4b8b-9b04-4800daae8b4c] - Service Save
+2024-03-09 13:49:32.195 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [4f9101aa-407f-4b8b-9b04-4800daae8b4c] - Repository Save
+2024-03-09 13:49:33.201 [Thread-7] INFO  dev.cisnux.logging.MyController - [2eece838-5fc1-4ae3-8c1b-5483943b0d97] - Controller Save
+2024-03-09 13:49:33.202 [Thread-7] INFO  dev.cisnux.logging.MyService - [2eece838-5fc1-4ae3-8c1b-5483943b0d97] - Service Save
+2024-03-09 13:49:33.203 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [2eece838-5fc1-4ae3-8c1b-5483943b0d97] - Repository Save
+2024-03-09 13:49:34.209 [Thread-8] INFO  dev.cisnux.logging.MyController - [2ebb7da5-d3ba-446a-8c1d-833febd962f6] - Controller Save
+2024-03-09 13:49:34.209 [Thread-8] INFO  dev.cisnux.logging.MyService - [2ebb7da5-d3ba-446a-8c1d-833febd962f6] - Service Save
+2024-03-09 13:49:34.209 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [2ebb7da5-d3ba-446a-8c1d-833febd962f6] - Repository Save
+2024-03-09 13:49:35.211 [Thread-9] INFO  dev.cisnux.logging.MyController - [d0339952-de6e-45b7-83dc-746ea78dd735] - Controller Save
+2024-03-09 13:49:35.212 [Thread-9] INFO  dev.cisnux.logging.MyService - [d0339952-de6e-45b7-83dc-746ea78dd735] - Service Save
+2024-03-09 13:49:35.212 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [d0339952-de6e-45b7-83dc-746ea78dd735] - Repository Save
+2024-03-09 13:49:43.982 [Thread-0] INFO  dev.cisnux.logging.MyController - [6a180467-10e4-43ed-9feb-54b286067ed2] - Controller Save
+2024-03-09 13:49:43.983 [Thread-0] INFO  dev.cisnux.logging.MyService - [6a180467-10e4-43ed-9feb-54b286067ed2] - Service Save
+2024-03-09 13:49:43.983 [Thread-0] INFO  dev.cisnux.logging.MyRepository - [6a180467-10e4-43ed-9feb-54b286067ed2] - Repository Save
+2024-03-09 13:49:44.989 [Thread-1] INFO  dev.cisnux.logging.MyController - [13b92456-074b-4fad-98bd-f66ea40b2e92] - Controller Save
+2024-03-09 13:49:44.990 [Thread-1] INFO  dev.cisnux.logging.MyService - [13b92456-074b-4fad-98bd-f66ea40b2e92] - Service Save
+2024-03-09 13:49:44.990 [Thread-1] INFO  dev.cisnux.logging.MyRepository - [13b92456-074b-4fad-98bd-f66ea40b2e92] - Repository Save
+2024-03-09 13:49:45.994 [Thread-2] INFO  dev.cisnux.logging.MyController - [c8bd9eed-fa1a-4831-99a1-151136883cbc] - Controller Save
+2024-03-09 13:49:45.995 [Thread-2] INFO  dev.cisnux.logging.MyService - [c8bd9eed-fa1a-4831-99a1-151136883cbc] - Service Save
+2024-03-09 13:49:45.995 [Thread-2] INFO  dev.cisnux.logging.MyRepository - [c8bd9eed-fa1a-4831-99a1-151136883cbc] - Repository Save
+2024-03-09 13:49:46.996 [Thread-3] INFO  dev.cisnux.logging.MyController - [a9fa7ccf-3cb0-4242-8b6f-dd9af2d5f170] - Controller Save
+2024-03-09 13:49:46.997 [Thread-3] INFO  dev.cisnux.logging.MyService - [a9fa7ccf-3cb0-4242-8b6f-dd9af2d5f170] - Service Save
+2024-03-09 13:49:46.998 [Thread-3] INFO  dev.cisnux.logging.MyRepository - [a9fa7ccf-3cb0-4242-8b6f-dd9af2d5f170] - Repository Save
+2024-03-09 13:49:48.001 [Thread-4] INFO  dev.cisnux.logging.MyController - [526ebe8b-cfc5-49f3-ae25-3325dbf50af3] - Controller Save
+2024-03-09 13:49:48.002 [Thread-4] INFO  dev.cisnux.logging.MyService - [526ebe8b-cfc5-49f3-ae25-3325dbf50af3] - Service Save
+2024-03-09 13:49:48.002 [Thread-4] INFO  dev.cisnux.logging.MyRepository - [526ebe8b-cfc5-49f3-ae25-3325dbf50af3] - Repository Save
+2024-03-09 13:49:49.004 [Thread-5] INFO  dev.cisnux.logging.MyController - [25ee60e3-4069-4763-927b-c8371339d4eb] - Controller Save
+2024-03-09 13:49:49.005 [Thread-5] INFO  dev.cisnux.logging.MyService - [25ee60e3-4069-4763-927b-c8371339d4eb] - Service Save
+2024-03-09 13:49:49.006 [Thread-5] INFO  dev.cisnux.logging.MyRepository - [25ee60e3-4069-4763-927b-c8371339d4eb] - Repository Save
+2024-03-09 13:49:50.012 [Thread-6] INFO  dev.cisnux.logging.MyController - [a4930011-f5e8-43bb-adb6-5e2f8d079d51] - Controller Save
+2024-03-09 13:49:50.013 [Thread-6] INFO  dev.cisnux.logging.MyService - [a4930011-f5e8-43bb-adb6-5e2f8d079d51] - Service Save
+2024-03-09 13:49:50.013 [Thread-6] INFO  dev.cisnux.logging.MyRepository - [a4930011-f5e8-43bb-adb6-5e2f8d079d51] - Repository Save
+2024-03-09 13:49:51.015 [Thread-7] INFO  dev.cisnux.logging.MyController - [1a0098a0-5839-4240-aa96-9097d11f7fb2] - Controller Save
+2024-03-09 13:49:51.016 [Thread-7] INFO  dev.cisnux.logging.MyService - [1a0098a0-5839-4240-aa96-9097d11f7fb2] - Service Save
+2024-03-09 13:49:51.017 [Thread-7] INFO  dev.cisnux.logging.MyRepository - [1a0098a0-5839-4240-aa96-9097d11f7fb2] - Repository Save
+2024-03-09 13:49:52.023 [Thread-8] INFO  dev.cisnux.logging.MyController - [be87220e-4305-4c4b-9754-c341b7c7edd3] - Controller Save
+2024-03-09 13:49:52.024 [Thread-8] INFO  dev.cisnux.logging.MyService - [be87220e-4305-4c4b-9754-c341b7c7edd3] - Service Save
+2024-03-09 13:49:52.024 [Thread-8] INFO  dev.cisnux.logging.MyRepository - [be87220e-4305-4c4b-9754-c341b7c7edd3] - Repository Save
+2024-03-09 13:49:53.025 [Thread-9] INFO  dev.cisnux.logging.MyController - [8c24c02f-aa3b-4bd1-8a06-f1524721b261] - Controller Save
+2024-03-09 13:49:53.026 [Thread-9] INFO  dev.cisnux.logging.MyService - [8c24c02f-aa3b-4bd1-8a06-f1524721b261] - Service Save
+2024-03-09 13:49:53.026 [Thread-9] INFO  dev.cisnux.logging.MyRepository - [8c24c02f-aa3b-4bd1-8a06-f1524721b261] - Repository Save
